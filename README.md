@@ -2,10 +2,11 @@
 
 > just some awesome links about web development
 
-Browser
+Browser Performance
 
 * Talia Garsiel and Paul Irish: [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Introduction)
 * Ilya Grigorik: [Website Performance Optimization - The Critical Rendering Path](https://www.udacity.com/course/ud884)
+* Yahoo!: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 
 Javascript
 
