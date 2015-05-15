@@ -18,3 +18,7 @@ Node.js
 
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Stream Handbook] (https://github.com/substack/stream-handbook)
+
+Design
+
+* [Butterick’s Practical Typography](http://practicaltypography.com/)
