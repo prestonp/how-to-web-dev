@@ -25,3 +25,8 @@ Design
 * Erik D Kennedy: [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * Kevin Hale: [How to Build Products Users Love](http://startupclass.samaltman.com/courses/lec07/) :video_camera:
 * mdo: [Common reasons your HTML and CSS may be fucked](https://github.com/mdo/wtf-html-css)
+
+Building APIs
+
+* [White House API Standards](https://github.com/WhiteHouse/api-standards)
+* [Heroku API Design](https://github.com/interagent/http-api-design)
