@@ -26,6 +26,7 @@ Design
 * Kevin Hale: [How to Build Products Users Love](http://startupclass.samaltman.com/courses/lec07/) :video_camera:
 * mdo: [Common reasons your HTML and CSS may be fucked](https://github.com/mdo/wtf-html-css)
 * [Apple: UI Design Do's and Don'ts](https://developer.apple.com/design/tips/)
+* [Codepen Design Patterns](http://codepen.io/patterns)
 
 Building APIs
 
