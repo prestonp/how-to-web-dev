@@ -27,6 +27,7 @@ Design
 * mdo: [Common reasons your HTML and CSS may be fucked](https://github.com/mdo/wtf-html-css)
 * [Apple: UI Design Do's and Don'ts](https://developer.apple.com/design/tips/)
 * [Codepen Design Patterns](http://codepen.io/patterns)
+* Adam Kaplan: [A simple guide to responsive design](http://adamkaplan.me/grid)
 
 Building APIs
 
