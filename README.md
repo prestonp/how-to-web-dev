@@ -33,3 +33,6 @@ Building APIs
 
 * [White House API Standards](https://github.com/WhiteHouse/api-standards)
 * [Heroku API Design](https://github.com/interagent/http-api-design)
+
+Workflow
+* Paul Irish: [How to screencapture and make animated gifs or whathaveyou](https://gist.github.com/paulirish/b6cf161009af0708315c)
