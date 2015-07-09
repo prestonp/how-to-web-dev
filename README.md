@@ -28,6 +28,7 @@ Design
 * [Apple: UI Design Do's and Don'ts](https://developer.apple.com/design/tips/)
 * [Codepen Design Patterns](http://codepen.io/patterns)
 * Adam Kaplan: [A simple guide to responsive design](http://adamkaplan.me/grid)
+* Dimitar Stojanov: [A Visual Guide to Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 Building APIs
 
