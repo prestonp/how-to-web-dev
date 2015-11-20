@@ -8,6 +8,7 @@ Browser Performance
 * Talia Garsiel and Paul Irish: [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Introduction)
 * Ilya Grigorik: [Website Performance Optimization - The Critical Rendering Path](https://www.udacity.com/course/ud884)
 * Yahoo!: [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+* Addy Osmani: [Instant Loading Web Apps with an application shell architecture](https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
 
 Javascript
 
