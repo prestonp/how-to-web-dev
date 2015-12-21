@@ -30,6 +30,7 @@ Design
 * [Codepen Design Patterns](http://codepen.io/patterns)
 * Adam Kaplan: [A simple guide to responsive design](http://adamkaplan.me/grid)
 * Dimitar Stojanov: [A Visual Guide to Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* Thomas Park: [Flexbox Froggy](http://flexboxfroggy.com/)
 
 Building APIs
 
