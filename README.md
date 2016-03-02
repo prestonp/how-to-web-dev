@@ -39,3 +39,4 @@ Building APIs
 
 Workflow
 * Paul Irish: [How to screencapture and make animated gifs or whathaveyou](https://gist.github.com/paulirish/b6cf161009af0708315c)
+* Zach Holman: [How to deploy software](https://zachholman.com/posts/deploying-software)
