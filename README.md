@@ -32,6 +32,7 @@ Design
 * Dimitar Stojanov: [A Visual Guide to Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * Thomas Park: [Flexbox Froggy](http://flexboxfroggy.com/)
 * Andrew Coyle: [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.fmvs5nyro)
+* [Pesticide: browser plugin for css layout debugging](http://pesticide.io/)
 
 Building APIs
 
@@ -42,3 +43,4 @@ Workflow
 * Paul Irish: [How to screencapture and make animated gifs or whathaveyou](https://gist.github.com/paulirish/b6cf161009af0708315c)
 * Zach Holman: [How to deploy software](https://zachholman.com/posts/deploying-software)
 * [Learn Git Pre-Commit Hooks](https://github.com/dwyl/learn-pre-commit)
+* [Deploy to github pages from a "dist" folder](https://gist.github.com/cobyism/4730490#gistcomment-1715927)
