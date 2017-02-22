@@ -35,7 +35,7 @@ Design
 * [Pesticide: browser plugin for css layout debugging](http://pesticide.io/)
 
 Building APIs
-
+* [Google Cloud API Design Guide](https://cloud.google.com/apis/design)
 * [White House API Standards](https://github.com/WhiteHouse/api-standards)
 * [Heroku API Design](https://github.com/interagent/http-api-design)
 
