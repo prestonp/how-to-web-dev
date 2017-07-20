@@ -44,3 +44,6 @@ Workflow
 * Zach Holman: [How to deploy software](https://zachholman.com/posts/deploying-software)
 * [Learn Git Pre-Commit Hooks](https://github.com/dwyl/learn-pre-commit)
 * [Deploy to github pages from a "dist" folder](https://gist.github.com/cobyism/4730490#gistcomment-1715927)
+
+Systems
+* [Logging Vs Instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) - Peter Bourgon
