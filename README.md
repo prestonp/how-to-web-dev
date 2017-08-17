@@ -47,3 +47,4 @@ Workflow
 
 Systems
 * [Logging Vs Instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) - Peter Bourgon
+* [Prometheus Instrumentation Best Practices](https://prometheus.io/docs/practices/instrumentation/)
